@@ -29,7 +29,7 @@
     "gatsby-theme-ui-preset": "^3.0.0",
     "mdx-utils": "0.2.0",
     "react-helmet": "^6.1.0",
-    "theme-ui": "0.7.0"
+    "theme-ui": "0.13.0"
   },
   "peerDependencies": {
     "gatsby": "^4.0.0",
